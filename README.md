@@ -1,1 +1,1 @@
-# React-Layout
+If we are going to create new project in react every time we need to setup our project that is a bit challanging. for simplicity i have created a ready met setup. just you will download the project and in "Pages" directory under "src" folder add you pages with module css there one page nameing "Home" available as an example. you can copy. after creating page update route folder route that's all.
